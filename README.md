@@ -3,6 +3,10 @@ prueba tecnica
 
 Referente al ejercicio esta disponible en el repositorio se encuentra el codigo java.
 
+usuario api
+user:gregorio
+pass:123123
+
 el ejercicio 2:
 
 Creo que se lo que se debería hacer es:
